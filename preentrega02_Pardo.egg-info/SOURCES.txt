@@ -1,0 +1,9 @@
+setup.py
+packages/__init__.py
+packages/customer.py
+packages/person.py
+packages/signIn_&_logIn.py
+preentrega02_Pardo.egg-info/PKG-INFO
+preentrega02_Pardo.egg-info/SOURCES.txt
+preentrega02_Pardo.egg-info/dependency_links.txt
+preentrega02_Pardo.egg-info/top_level.txt
